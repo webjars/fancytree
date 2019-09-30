@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>fancytree</artifactId>
-    <version>2.32.0</version>
+    <version>2.32.1-SNAPSHOT</version>
     <name>FancyTree</name>
     <description>WebJar for FancyTree</description>
     <url>http://webjars.org</url>
@@ -52,7 +52,7 @@
         <url>http://github.com/webjars/fancytree</url>
         <connection>scm:git:https://github.com/webjars/fancytree.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/fancytree.git</developerConnection>
-        <tag>fancytree-2.32.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
